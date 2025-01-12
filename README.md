@@ -57,5 +57,5 @@ impl LinuxUser for TenOne506 {
 
 [![My Skills](https://skillicons.dev/icons?i=apple,bash,cpp,cmake,css,debian,discord,docker,git,github,githubactions,gitlab,gmail,html,jquery,js,linux,md,nodejs,npm,postman,py,rust,ts,ubuntu,vim,vscode)](https://skillicons.dev)
 
-[![ZhouJing's github stats](https://github-readme-stats.vercel.app/api?username=TenOne506)](https://github.com/anuraghazra/github-readme-stats)
+[![TenOne506's github stats](https://github-readme-stats.vercel.app/api?username=TenOne506)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenOne506&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
