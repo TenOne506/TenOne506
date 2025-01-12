@@ -1,5 +1,16 @@
-## Hi there 👋
+My ![Visitor Count](https://profile-counter.glitch.me/TenOne506/count.svg) Visitor 
 
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm+Wan+YiFan.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">
+</picture>
+
+## Hi  👋
+- 🔭 I’m currently studyinng  at Harbin Institute of Technology
+- 🌱 I’m currently learning compiler
+- ⚡ Fun fact: I’m reading  ENGINEERING A COMPILER (THIRD EDITION)
+- 📫 How to reach me: w138527700055066@163.com
+- 💬 Ask me about Nothing,I’m newbie
+- 🔗 [My Blog and Notes](https://tenone506.github.io/)
 <!--
 **TenOne506/TenOne506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,46 +27,45 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+## Skills And Interests  👋
 
-```rust
-impl TenOne506 {
-    pub fn about() -> Self {
-        Self {
-            name: "YiFan Wan",
-            emails: "wanyifan0506@gmail.com@gmail.com, w138527700055066@@163.com"
-            education: Education {
-                bachelor: Degree("Guangdong Ocean University, School of Mathematics and Computer Science", "Computer Science", 2019..=2023),
-                PHD: Degree("Harbin Institute of Technology, School of Computer Science and Technology", "Computer Science", 2023..=2026), Drop Out
-            },
-        }
-    }
-}
+[![My Skills](https://skillicons.dev/icons?i=ai,cpp,c,py,js,rust,git,github,githubactions,vscode,vim,latex,postman,npm,linux,ubuntu,debian,windows,anaconda,cmake,docker,mysql,redis,nginx,pytorch,matlab,md,svg,gmail,powershell)](https://skillicons.dev)
 
-impl Programmer for TenOne506 {
-    fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers & Toolchains", "Backend "，"compiler"]
-    }
 
-    fn languages(&self) -> Vec<&'static str> {
-        vec!["C++", "Python"]
-    }
-}
+<table>
+  <tr>
+    <td style="width: 450px; vertical-align: top;">
+      <!-- 左边的内容 -->
+      <div style="width: 100%;">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=TenOne506&show_icons=true&hide_border=true&line_height=24&theme=tokyonight&bg_color=45,1e90ff,8a2be2"
+            media="(prefers-color-scheme: dark)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=TenOne506&show_icons=true&hide_border=true&line_height=24" alt="GitHub Stats" style="width: 100%;" />
+        </picture>
+        <br/>
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TenOne506&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=45,1e90ff,8a2be2"
+            media="(prefers-color-scheme: dark)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TenOne506&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" style="width: 100%;" />
+        </picture>
+      </div>
+    </td>
+    <td style="vertical-align: top;">
+      <!-- 右边的GIF图 -->
+      <p align="center">
+        <img src="src/code.gif" alt="GIF" title="Do what you like, and do it best!" style="width: 400px;height: 435px" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-impl LinuxUser for TenOne506 {
-    fn distros() -> Vec<&'static str> {
-        vec!["Ubuntu"]
-    }
-}
+## Snake Animation  🐍
 
-```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TenOne506/TenOne506/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TenOne506/TenOne506/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TenOne506/TenOne506/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,bash,cpp,cmake,css,debian,discord,docker,git,github,githubactions,gitlab,gmail,html,jquery,js,linux,md,nodejs,npm,postman,py,rust,ts,ubuntu,vim,vscode)](https://skillicons.dev)
-
-[![TenOne506's github stats](https://github-readme-stats.vercel.app/api?username=TenOne506)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenOne506&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
