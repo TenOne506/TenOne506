@@ -11,6 +11,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/TenOne506/count.svg) Visit
 - 📫 How to reach me: w138527700055066@163.com
 - 💬 Ask me about Nothing,I’m newbie
 - 🔗 [My Blog and Notes](https://tenone506.github.io/)
+- 😄 I have received Tencent summer internship offer.
 <!--
 **TenOne506/TenOne506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
