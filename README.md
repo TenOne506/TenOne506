@@ -1,7 +1,7 @@
-My ![Visitor Count](https://profile-counter.glitch.me/TenOne506/count.svg) Visitor 
+
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm+Wan+YiFan.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm++Z+ephyrus.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">    
 </picture>
 
 ## Hi  👋
