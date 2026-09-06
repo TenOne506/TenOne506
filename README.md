@@ -1,20 +1,17 @@
 
 
 <!-- <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm++Y+lven.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">    
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm++Y+lven.%F0%9F%91%8F;I'm newbie.%F0%9F%98%80)">    
 </picture> -->
-<picture>
+<!-- <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Ylven&stroke=233,245,233&animation=fadeIn&desc=Architecting%20High-Efficiency%20Systems%20and%20AI.&section=header&reversal=true&textBg=false&strokeWidth=1&fontSize=40">
-</picture>
+</picture> -->
 
 ## Hi  👋
-- 🔭 I’m currently studyinng  at Harbin Institute of Technology
-- 🌱 I’m currently learning compiler
-- ⚡ Fun fact: I’m reading  ENGINEERING A COMPILER (THIRD EDITION)
+- 🔭 I’m currently working on search-related projects
 - 📫 How to reach me: w138527700055066@163.com
 - 💬 Ask me about Nothing,I’m newbie
 - 🔗 [My Blog and Notes](https://tenone506.github.io/)
-- 😄 I have received Tencent summer internship offer.
 <!--
 **TenOne506/TenOne506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
