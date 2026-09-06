@@ -1,10 +1,10 @@
 
 
 <!-- <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm++Z+ephyrus.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">    
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm++Y+lven.%F0%9F%91%8F;I’m newbie.%F0%9F%98%80)">    
 </picture> -->
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Zephyrus&stroke=233,245,233&animation=fadeIn&desc=Architecting%20High-Efficiency%20Systems%20and%20AI.&section=header&reversal=true&textBg=false&strokeWidth=1&fontSize=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Ylven&stroke=233,245,233&animation=fadeIn&desc=Architecting%20High-Efficiency%20Systems%20and%20AI.&section=header&reversal=true&textBg=false&strokeWidth=1&fontSize=40">
 </picture>
 
 ## Hi  👋
@@ -18,7 +18,7 @@
 <!--
 **TenOne506/TenOne506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+zHere are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
